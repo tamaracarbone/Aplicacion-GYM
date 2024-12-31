@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1655941507 source:c:\users\vitor\desktop\tp_gym\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<windows.h>
+
